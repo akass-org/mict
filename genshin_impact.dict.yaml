@@ -3,7 +3,7 @@
 
 ---
 name: genshin_impact
-version: "2026.04.25"
+version: "2026.05.02"
 sort: original
 use_preset_vocabulary: true
 ...
@@ -561,6 +561,7 @@ Olah！第一辑	di yi ji	1
 为最美者	wei zui mei zhe	1
 为死而战	wei si er zhan	1
 为那菈献上珍馐	wei na la xian shang zhen xiu	1
+主宰地下世界的黑道大佬	zhu zai di xia shi jie de hei dao da lao	1
 主板调试	zhu ban diao shi	1
 丽什蒂	li shen di	1
 丽切娅	li qie ya	1
@@ -709,6 +710,7 @@ Olah！第一辑	di yi ji	1
 书抵万金	shu di wan jin	1
 书摊老板	shu tan lao ban	1
 书柜上的纸张	shu gui shang de zhi zhang	1
+书页上的少女	shu ye shang de shao nü	1
 书页里的电火花	shu ye li de dian huo hua	1
 买书的顾客	mai shu de gu ke	1
 买书记	mai shu ji	1
@@ -1033,6 +1035,7 @@ Olah！第一辑	di yi ji	1
 伊拉德	yi la de	2
 伊拉杰	yi la jie	2
 伊斯丁豪斯	yi si ding hao si	2
+伊斯托利亚	yi si tuo li ya	1
 伊斯梅诺	yi si mei nuo	2
 伊柯蒂	yi ke di	2
 伊桑	yi sang	2
@@ -1046,7 +1049,6 @@ Olah！第一辑	di yi ji	1
 伊洛丝	yi luo si	1
 伊涅芙	yi nie fu	2
 伊涅芙的命星	yi nie fu de ming xing	1
-伊涅芙的工具箱	yi nie fu de gong ju xiang kong	1
 伊涅芙的工具箱	yi nie fu de gong ju xiang	2
 伊瓦伊	yi wa yi	1
 伊瓦尔	yi wa er	1
@@ -1128,6 +1130,7 @@ Olah！第一辑	di yi ji	1
 优雅剑舞的艺术？	you ya jian wu de yi shu	1
 优雅的雕像	you ya de diao xiang	1
 优雅礼服衬衫	you ya li fu chen shan	1
+伙伴	huo ban	1
 伙伴与家园	huo ban yu jia yuan	1
 伙伴关系	huo ban guan xi	1
 会场主持人	hui chang zhu chi ren	1
@@ -1259,6 +1262,7 @@ Olah！第一辑	di yi ji	1
 佣兵重剑	yong bing zhong jian	3
 佩佩	pei pei	2
 佩卡尼	pei ka ni	1
+佩奇	pei qi	1
 佩妮	pei ni	1
 佩尔曼雅	pei er man ya	1
 佩尔泽	pei er ze	1
@@ -1313,7 +1317,7 @@ Olah！第一辑	di yi ji	1
 俊明	jun ming	1
 俏皮活泼	qiao pi huo po	1
 保存完好的打孔纸带	bao cun wan hao de da kong zhi dai	2
-保护点	bao hu dian dui tui fang shou	1
+保护点	bao hu dian	1
 保本	bao ben	2
 保琳	bao lin	2
 保证让人轻轻松松长高超厉害灵药	bao zheng rang ren qing qing song song zhang gao chao li hai ling yao	1
@@ -1355,9 +1359,7 @@ Olah！第一辑	di yi ji	1
 倾耳	qing er	1
 倾落伽蓝	qing luo ga lan	1
 假如她不再梦到你…	jia ru ta bu zai meng dao ni	1
-假山原石	jia shan yuan shi zuo	1
-假山原石	jia shan yuan shi	1
-假山原石	jia shan yuan shi you	1
+假山原石	jia shan yuan shi	2
 假山雕刻工具	jia shan diao ke gong ju	2
 假日	jia ri	1
 假日冒险？出发！	jia ri mao xian chu fa	1
@@ -1503,6 +1505,7 @@ Olah！第一辑	di yi ji	1
 全什么外壳来着？	quan shen me wai ke lai zhe	1
 全勤王	quan qin wang	1
 全弹	quan dan	1
+全弹齐射榴炮铁人	quan dan qi she liu pao tie ren	1
 全新演绎	quan xin yan yi	1
 全新的巡礼	quan xin de xun li	1
 全方位后援	quan fang wei hou yuan	1
@@ -1635,6 +1638,7 @@ Olah！第一辑	di yi ji	1
 兰雅玛	lan ya ma	1
 兰非拉	lan fei la	2
 兰齐塔	lan qi ta	2
+共享	gong xiang	1
 共渡潮落	gong du chao luo	1
 共睹那日之将落	gong du na ri zhi jiang luo	1
 共饮之杯	gong yin zhi bei	2
@@ -1721,6 +1725,7 @@ Olah！第一辑	di yi ji	1
 内村	nei cun	1
 内森	nei sen	2
 内海	nei hai	2
+内田幸太郎	nei tian xing tai lang	1
 内部撤离行动公文	nei bu che li xing dong gong wen	2
 冈崎寅卫门	gang qi yin wei men	2
 冈崎绘里香	gang qi hui li xiang	2
@@ -2100,9 +2105,7 @@ Olah！第一辑	di yi ji	1
 刻字的石碑	ke zi de shi bei	1
 刻晴	ke qing	3
 刻晴的命星	ke qing de ming xing	1
-刻有字迹的贝壳	ke you zi ji de bei ke san	1
-刻有字迹的贝壳	ke you zi ji de bei ke er	1
-刻有字迹的贝壳	ke you zi ji de bei ke yi	1
+刻有字迹的贝壳	ke you zi ji de bei ke	1
 刻痕	ke hen	1
 削月筑阳真君	xue yue zhu yang zhen jun	2
 削羽人	xue yu ren	1
@@ -2204,6 +2207,8 @@ Olah！第一辑	di yi ji	1
 加里克	jia li ke	1
 动物园大亨	dong wu yuan da heng	1
 动物茶会	dong wu cha hui	1
+动物调查	dong wu diao cha	1
+动物调查特别授课	dong wu diao cha te bie shou ke	1
 努乌	nu wu	2
 努伊	nu yi	2
 努斯妲	nu si da	2
@@ -2225,6 +2230,7 @@ Olah！第一辑	di yi ji	1
 劳伦斯	lao lun si	2
 劳作	lao zuo	1
 劳塔洛	lao ta luo	1
+劳碌之故	lao lu zhi gu	1
 劳维克	lao wei ke	1
 劳莉	lao li	1
 势至权达	shi zhi quan da	1
@@ -2247,10 +2253,6 @@ Olah！第一辑	di yi ji	1
 勇气的化身	yong qi de hua shen	1
 勇气的证明	yong qi de zheng ming	1
 勇猛奋斗日记	yong meng fen dou ri ji	2
-勇猛奋斗日记	yong meng fen dou ri ji san	2
-勇猛奋斗日记	yong meng fen dou ri ji er	2
-勇猛奋斗日记	yong meng fen dou ri ji yi	2
-勇猛奋斗日记	yong meng fen dou ri ji si	2
 勇猛的嵴锋龙	yong meng de ji feng long	1
 勇猛落落莓	yong meng luo luo mei	1
 勇猛落落莓的同伙	yong meng luo luo mei de tong huo	1
@@ -2488,7 +2490,7 @@ Olah！第一辑	di yi ji	1
 博来	bo lai	2
 博格诺	bo ge nuo	1
 博物通志	bo wu tong zhi	1
-博物馆惊魂夜	bo wu guan jing hun ye	1
+博物馆惊魂夜	bo wu guan jing hun ye	2
 博絮埃	bo xu ai	1
 博纳	bo na	1
 博茨斯劳	bo ci si lao	1
@@ -2541,6 +2543,7 @@ Olah！第一辑	di yi ji	1
 卡帕可	ka pa ke	2
 卡拉穆鲁	ka la mu lu	2
 卡斯帕	ka si pa	2
+卡斯蒂廖内	ka si di liao nei	1
 卡格姆尼	ka ge mu ni	2
 卡桑	ka sang	2
 卡特皮拉	ka te pi la	2
@@ -2833,6 +2836,7 @@ Olah！第一辑	di yi ji	1
 古剑铭文	gu jian ming wen	1
 古华手记	gu hua shou ji	1
 古华派的大师兄	gu hua pai de da shi xiong	2
+古华演武	gu hua yan wu	1
 古华诸贤谱录	gu hua zhu xian pu lu	1
 古华鱼羊鲜	gu hua yu yang xian	2
 古名寻回之旅	gu ming xun hui zhi lü	1
@@ -3161,6 +3165,7 @@ Olah！第一辑	di yi ji	1
 告示牌	gao shi pai	1
 告示牌上的留言	gao shi pai shang de liu yan	1
 告竣的流彩	gao jun de liu cai	1
+告解日	gao jie ri	1
 呖呖雀语	li li que yu	1
 呜呜	wu wu	1
 呜呜大葡萄	wu wu da pu tao	1
@@ -3370,7 +3375,6 @@ Olah！第一辑	di yi ji	1
 喂食	wei shi	1
 善事有善报	shan shi you shan bao	1
 善后工作	shan hou gong zuo	1
-善恶的赫瓦雷纳	wu yin yong shan e de he wa lei na	1
 善恶的赫瓦雷纳	shan e de he wa lei na	1
 善意的提示	shan yi de ti shi	1
 善良促销	shan liang cu xiao	1
@@ -4860,6 +4864,7 @@ Olah！第一辑	di yi ji	1
 如雷的盛怒	ru lei de sheng nu	2
 如风带来的种子	ru feng dai lai de zhong zi	1
 如飘向空中的丝绸…	ru piao xiang kong zhong de si chou	1
+妌癸	jing gui	1
 妖邪退散	yao xie tui san	1
 妖雾重重	yao wu zhong zhong	1
 妖鬼狂言百物语	yao gui kuang yan bai wu yu	1
@@ -6610,7 +6615,6 @@ Olah！第一辑	di yi ji	1
 微风衬衫	wei feng chen shan	1
 微风饮游	wei feng yin you	1
 德乌特	de wu te	1
-德乌特	de wu te ling	1
 德佑	de you	2
 德兹斯拉沃的移动城堡	de zi si la wo de yi dong cheng bao	1
 德利瓦	de li wa	1
@@ -7819,8 +7823,7 @@ Olah！第一辑	di yi ji	1
 旅行者/风	lü xing zhe feng	1
 旅行者手制便当	lü xing zhe shou zhi bian dang	2
 旅行者的专题采访手册	lü xing zhe de zhuan ti cai fang shou ce	1
-旅行者的命星	lü xing zhe nan de ming xing	1
-旅行者的命星	lü xing zhe nü de ming xing	1
+旅行者的命星	lü xing zhe de ming xing	1
 旅行者的奇妙冒险	lü xing zhe de qi miao mao xian	1
 旅行者的笔记	lü xing zhe de bi ji	2
 旅行者观察报告	lü xing zhe guan cha bao gao	1
@@ -8432,6 +8435,7 @@ Olah！第一辑	di yi ji	1
 最后的仁慈	zui hou de ren ci	1
 最后的准备	zui hou de zhun bei	1
 最后的回火夜	zui hou de hui huo ye	1
+最后的审判	zui hou de shen pan	1
 最后的特诺奇兹托克人	zui hou de te nuo qi zi tuo ke ren	1
 最后的问题	zui hou de wen ti	1
 最后的黄金之秋	zui hou de huang jin zhi qiu	1
@@ -8664,6 +8668,7 @@ Olah！第一辑	di yi ji	1
 本大爷还没有输！	ben da ye hai mei you shu	1
 本子上的备忘录	ben zi shang de bei wang lu	1
 本朝手鞠戏小传	ben chao shou ju xi xiao chuan	1
+本瑟姆	ben se mu	1
 本职工作	ben zhi gong zuo	1
 札齐	zha qi	1
 朱利亚诺	zhu li ya nuo	1
@@ -8802,6 +8807,7 @@ Olah！第一辑	di yi ji	1
 来自火花骑士的邀请	lai zi huo hua qi shi de yao qing	1
 来自烟谜主的使命	lai zi yan mi zhu de shi ming	2
 来自神子的邀请函	lai zi shen zi de yao qing han	2
+来自秘闻馆的委托	lai zi mi wen guan de wei tuo	1
 来自稻妻的长途信件	lai zi dao qi de zhang tu xin jian	2
 来自英雄的认证！	lai zi ying xiong de ren zheng	1
 来自过去的声音	lai zi guo qu de sheng yin	1
@@ -8952,6 +8958,7 @@ Olah！第一辑	di yi ji	1
 枣椰蜜糖	zao ye mi tang	2
 枪与翼	qiang yu yi	1
 枪剑双绝	qiang jian shuang jue	1
+枪弹与丝线的合围	qiang dan yu si xian de he wei	1
 枫	feng	1
 枫丹	feng dan	1
 枫丹之行	feng dan zhi xing	1
@@ -9328,11 +9335,8 @@ Olah！第一辑	di yi ji	1
 森彦	sen yan	1
 森林与公主	sen lin yu gong zhu	1
 森林书	sen lin shu	1
-森林书 第一章 林中奇遇	sen lin shu di yi zhang wu yin yong lin zhong qi yu	1
 森林书 第一章 林中奇遇	sen lin shu di yi zhang lin zhong qi yu	1
 森林书 第三章 失梦的苗圃	sen lin shu di san zhang shi meng de miao pu	1
-森林书 第三章 失梦的苗圃	sen lin shu di san zhang wu yin yong shi meng de miao pu	1
-森林书 第二章 梦中的苗圃	sen lin shu di er zhang wu yin yong meng zhong de miao pu	1
 森林书 第二章 梦中的苗圃	sen lin shu di er zhang meng zhong de miao pu	1
 森林书 第四章 最终，森林会记住一切	sen lin shu di si zhang zui zhong sen lin hui ji zhu yi qie	1
 森林会记住一切	sen lin hui ji zhu yi qie	1
@@ -9568,8 +9572,7 @@ Olah！第一辑	di yi ji	1
 残破的纸片	can po de zhi pian	2
 残破的航海日志	can po de hang hai ri zhi	2
 残破的货品清单	can po de huo pin qing dan	2
-残缺乐谱	can que le pu xia ban zhang	1
-残缺乐谱	can que le pu shang ban zhang	1
+残缺乐谱	can que le pu	1
 残缺的文字	can que de wen zi	1
 残缺的笔记	can que de bi ji	2
 残缺美学	can que mei xue	1
@@ -10764,6 +10767,7 @@ Olah！第一辑	di yi ji	1
 潜水套装	qian shui tao zhuang	2
 潜水钟与胖胖果	qian shui zhong yu pang pang guo	1
 潜身敌营无人知	qian shen di ying wu ren zhi	1
+潜龙飞凤	qian long fei feng	1
 潦草的笔记	lao cao de bi ji	1
 潮信之月	chao xin zhi yue	1
 潮哥	chao ge	1
@@ -11220,6 +11224,7 @@ Olah！第一辑	di yi ji	1
 爱可	ai ke	2
 爱可菲	ai ke fei	2
 爱可菲的命星	ai ke fei de ming xing	1
+爱吃甜食的工坊主人	ai chi tian shi de gong fang zhu ren	1
 爱德琳	ai de lin	2
 爱拉尼	ai la ni	2
 爱拉尼的便签	ai la ni de bian qian	1
@@ -11237,7 +11242,6 @@ Olah！第一辑	di yi ji	1
 爱诺	ai nuo	2
 爱诺的命星	ai nuo de ming xing	1
 爱诺的工具箱	ai nuo de gong ju xiang	2
-爱诺的工具箱	ai nuo de gong ju xiang kong	1
 爱贝尔	ai bei er	2
 爱雅	ai ya	2
 爱雅的快件	ai ya de kuai jian	2
@@ -11298,6 +11302,7 @@ Olah！第一辑	di yi ji	1
 特别的香辛果	te bie de xiang xin guo	2
 特别的鸟蛋	te bie de niao dan	2
 特别行动	te bie xing dong	1
+特别调查	te bie diao cha	1
 特别蹦蹦嘟嘟可	te bie beng beng du du ke	1
 特制杏仁豆腐	te zhi xing ren dou fu	2
 特制的庄园烤松饼	te zhi de zhuang yuan kao song bing	2
@@ -11330,9 +11335,7 @@ Olah！第一辑	di yi ji	1
 特大号烟花	te da hao yan hua	2
 特大号花火祭	te da hao hua huo ji	1
 特尔克西	te er ke xi	1
-特尔克西开发日志	te er ke xi kai fa ri zhi san	1
-特尔克西开发日志	te er ke xi kai fa ri zhi yi	1
-特尔克西开发日志	te er ke xi kai fa ri zhi er	1
+特尔克西开发日志	te er ke xi kai fa ri zhi	1
 特尔克西徽章	te er ke xi hui zhang	1
 特尔克西的奇幻历险	te er ke xi de qi huan li xian	1
 特尔克西的武器材料	te er ke xi de wu qi cai liao	2
@@ -11344,7 +11347,6 @@ Olah！第一辑	di yi ji	1
 特帕尔的残缺手记	te pa er de can que shou ji	2
 特帕纳胡伊	te pa na hu yi	1
 特技光效与明日之星！	te ji guang xiao yu ming ri zhi xing	1
-特拉佐莉	te la zuo li biao yan yong ke long ren	1
 特拉佐莉	te la zuo li	2
 特拉帕尔	te la pa er	1
 特拉忒	te la te	2
@@ -11378,7 +11380,6 @@ Olah！第一辑	di yi ji	1
 特蒂赫莉	te di he li	2
 特训	te xun	1
 特训回顾	te xun hui gu	2
-特训回顾	te xun hui gu yi yue	1
 特许券	te xu quan	2
 特诺切	te nuo qie	2
 特调佳作，列为经典	te diao jia zuo lie wei jing dian	1
@@ -11452,6 +11453,7 @@ Olah！第一辑	di yi ji	1
 狭间的叩问	xia jian de kou wen	1
 狭间的苏生之辔碎片	xia jian de su sheng zhi pei sui pian	2
 狮之血	shi zhi xue	1
+狮子奋迅	shi zi fen xun	1
 狮牙之牙	shi ya zhi ya	1
 狮牙斗士的枷锁	shi ya dou shi de jia suo	2
 狮牙斗士的理想	shi ya dou shi de li xiang	2
@@ -11578,6 +11580,7 @@ Olah！第一辑	di yi ji	1
 玛伊蕾	ma yi lei	2
 玛克林	ma ke lin	1
 玛兹嘉	ma zi jia	1
+玛卡尼哈冈	ma ka ni ha gang	1
 玛卡德尔	ma ka de er	2
 玛因	ma yin	1
 玛塔莉	ma ta li	2
@@ -11913,6 +11916,7 @@ Olah！第一辑	di yi ji	1
 由真	you zhen	1
 由风捎来的信	you feng shao lai de xin	2
 甲字号	jia zi hao	1
+甲射乙导初期型归终机	jia she yi dao chu qi xing gui zhong ji	1
 甲斐田龙马	jia fei tian long ma	2
 甲级宝珏	jia ji bao jue	3
 申鹤	shen he	3
@@ -11936,6 +11940,7 @@ Olah！第一辑	di yi ji	1
 画布	hua bu	1
 画片	hua pian	1
 画牢锁伥	hua lao suo chang	1
+画白鹤图	hua bai he tu	1
 画阁朱楼	hua ge zhu lou	1
 画龙点睛	hua long dian jing	1
 画龙点睛？	hua long dian jing	1
@@ -11956,6 +11961,7 @@ Olah！第一辑	di yi ji	1
 留影机印出的画	liu ying ji yin chu de hua	1
 留念镜	liu nian jing	1
 留给你的画	liu gei ni de hua	2
+留给孩子们的玩具	liu gei hai zi men de wan ju	1
 留给岻伽的藏宝图	liu gei chi ga de cang bao tu	1
 留言	liu yan	1
 留言板	liu yan ban	1
@@ -12404,7 +12410,7 @@ Olah！第一辑	di yi ji	1
 破破烂烂的笔记	po po lan lan de bi ji	1
 破碎之海	po sui zhi hai	1
 破碎潦潮石	po sui lao chao shi	2
-破碎的记忆	po sui de ji yi feng	1
+破碎的记忆	po sui de ji yi	1
 破碎的饰品	po sui de shi pin	2
 破碎证言	po sui zheng yan	1
 破空轰动	po kong hong dong	1
@@ -12780,6 +12786,7 @@ Olah！第一辑	di yi ji	1
 秋津森夜试胆会 其三 世事流水	qiu jin sen ye shi dan hui qi san shi shi liu shui	1
 秋津森夜试胆会 其二 妖雾重重	qiu jin sen ye shi dan hui qi er yao wu zhong zhong	1
 秋津羽球	qiu jin yu qiu	1
+秋特切娃	qiu te qie wa	1
 秋的悔意	qiu de hui yi	2
 秋的礼物	qiu de li wu	2
 秋纽奥	qiu niu ao	2
@@ -12820,7 +12827,6 @@ Olah！第一辑	di yi ji	1
 科里	ke li	1
 秘典	mi dian	1
 秘典之盒	mi dian zhi he	2
-秘典之盒	mi dian zhi he zhuan mai	1
 秘刻金纹的源核	mi ke jin wen de yuan he	2
 秘华石	mi hua shi	2
 秘境与深境螺旋	mi jing yu shen jing luo xuan	1
@@ -12868,6 +12874,7 @@ Olah！第一辑	di yi ji	1
 积存已久的委托	ji cun yi jiu de wei tuo	1
 积木卫兵	ji mu wei bing	1
 积蓄净水的艺术	ji xu jing shui de yi shu	1
+移书	yi shu	1
 移光拾影	yi guang shi ying	1
 移动	yi dong	1
 移动速度降低	yi dong su du jiang di	1
@@ -13422,7 +13429,6 @@ Olah！第一辑	di yi ji	1
 纯水真心	chun shui zhen xin	1
 纯水精灵	chun shui jing ling	3
 纯水精灵？	chun shui jing ling	1
-纯洁之水	chun jie zhi shui zheng xiang	1
 纯洁之水	chun jie zhi shui	1
 纯洁松果	chun jie song guo	3
 纯白	chun bai	1
@@ -13468,6 +13474,7 @@ Olah！第一辑	di yi ji	1
 纳里曼	na li man	2
 纳齐森科鲁兹	na qi sen ke lu zi	2
 纵声欢唱	zong sheng huan chang	2
+纵横远海的佣兵巨头	zong heng yuan hai de yong bing ju tou	1
 纵逸疾行	zong yi ji xing	1
 纷争的前宴	fen zheng de qian yan	1
 纷争的哲学	fen zheng de zhe xue	2
@@ -13661,7 +13668,6 @@ Olah！第一辑	di yi ji	1
 绯樱绣球	fei ying xiu qiu	3
 绯樱虾仙贝	fei ying xia xian bei	2
 绯樱饼	fei ying bing	2
-绯红玉髓	fei hong yu sui chun biao xian	1
 绯红玉髓	fei hong yu sui	2
 绯纹暮暮羊	fei wen mu mu yang	2
 绯花之壶	fei hua zhi hu	1
@@ -13681,6 +13687,7 @@ Olah！第一辑	di yi ji	1
 维奇琳	wei qi lin	1
 维娜	wei na	1
 维尔芒	wei er mang	1
+维尼皮	wei ni pi	1
 维护机关	wei hu ji guan	1
 维护机关拆解零件	wei hu ji guan chai jie ling jian	1
 维护机关频闪诱饵	wei hu ji guan pin shan you er	2
@@ -13696,6 +13703,7 @@ Olah！第一辑	di yi ji	1
 维格尔	wei ge er	1
 维沙瓦	wei sha wa	1
 维热	wei re	1
+维特鲁威	wei te lu wei	1
 维纳亚克	wei na ya ke	1
 维缪尔	wei mou er	2
 维耶	wei ye	1
@@ -14103,6 +14111,7 @@ Olah！第一辑	di yi ji	1
 美羽	mei yu	1
 美铃	mei ling	1
 美露莘的调查问卷	mei lu shen de diao cha wen juan	1
+美露莘？	mei lu shen	1
 美食专栏	mei shi zhuan lan	1
 美食大盗	mei shi da dao	1
 美食小问答	mei shi xiao wen da	1
@@ -14372,8 +14381,7 @@ Olah！第一辑	di yi ji	1
 至纯的无相之风	zhi chun de wu xiang zhi feng	1
 至纯者的欢荣	zhi chun zhe de huan rong	1
 至贤者	zhi xian zhe	1
-至高的智慧	zhi gao de zhi hui	1
-至高的智慧	zhi gao de zhi hui sheng huo	1
+至高的智慧	zhi gao de zhi hui	2
 至高的杰作	zhi gao de jie zuo	1
 致一百年后的你	zhi yi bai nian hou de ni	1
 致主编的信	zhi zhu bian de xin	1
@@ -14498,6 +14506,7 @@ Olah！第一辑	di yi ji	1
 芒	mang	1
 芒性能量块	mang xing neng liang kuai	1
 芒脊守宫	mang ji shou gong	2
+芒荒圆舞机关	mang huang yuan wu ji guan	1
 芙佳	fu jia	2
 芙佳的信物	fu jia de xin wu	1
 芙卡洛斯	fu ka luo si	2
@@ -14672,8 +14681,7 @@ Olah！第一辑	di yi ji	1
 苹果	ping guo	3
 苹果卷卷	ping guo juan juan	2
 苹果炸弹	ping guo zha dan	1
-苹果焖肉	ping guo men rou	1
-苹果焖肉	ping guo men rou chu shi ban	1
+苹果焖肉	ping guo men rou	2
 苹果酿	ping guo niang	2
 苹果金条条	ping guo jin tiao tiao	2
 苹果黑布丁	ping guo hei bu ding	2
@@ -14705,8 +14713,8 @@ Olah！第一辑	di yi ji	1
 茜尔雅	qian er ya	1
 茜斯柯	qian si ke	1
 茜涅特	qian nie te	1
-茜特菈莉	qian te la li	2
 茜特菈莉	xi te la li	1
+茜特菈莉	qian te la li	2
 茜特菈莉的命星	qian te la li de ming xing	1
 茜特菈莉的手帕和钥匙	qian te la li de shou pa he yao shi	2
 茜特菈莉赠送的手帕	qian te la li zeng song de shou pa	2
@@ -14893,9 +14901,7 @@ Olah！第一辑	di yi ji	1
 莫尔让	mo er rang	1
 莫德斯特	mo de si te	1
 莫普瓦	mo pu wa	1
-莫索的日志	mo suo de ri zhi san	1
-莫索的日志	mo suo de ri zhi yi	1
-莫索的日志	mo suo de ri zhi er	1
+莫索的日志	mo suo de ri zhi	1
 莫约	mo yue	2
 莫莉	mo li	2
 莫莱妮	mo lai ni	2
@@ -14944,8 +14950,7 @@ Olah！第一辑	di yi ji	1
 莺儿	ying er	2
 莺泣石	ying qi shi	2
 菇兹亚	gu zi ya	1
-菇菇山脉	gu gu shan mai dan ren fen	1
-菇菇山脉	gu gu shan mai	1
+菇菇山脉	gu gu shan mai	2
 菈乌玛	la wu ma	2
 菈乌玛的命星	la wu ma de ming xing	1
 菘蓝	song lan	1
@@ -15335,10 +15340,7 @@ Olah！第一辑	di yi ji	1
 蛋包饭圆舞曲	dan bao fan yuan wu qu	2
 蛋卷螺栓	dan juan luo shuan	2
 蛎罗	li luo	1
-蛐蛐	qu qu lan	1
-蛐蛐	qu qu jin	1
-蛐蛐	qu qu zi	1
-蛐蛐	qu qu bai	1
+蛐蛐	qu qu	1
 蛐蛐毛	qu qu mao	1
 蛮横的商贩	man heng de shang fan	1
 蛮横的武士	man heng de wu shi	1
@@ -15462,8 +15464,7 @@ Olah！第一辑	di yi ji	1
 被祟神影响的鬼兜虫	bei sui shen ying xiang de gui dou chong	1
 被称作笨蛋的家伙	bei cheng zuo ben dan de jia huo	1
 被缚的囚徒	bei fu de qiu tu	1
-被腐蚀的残破笔记	bei fu shi de can po bi ji san	1
-被腐蚀的残破笔记	bei fu shi de can po bi ji	1
+被腐蚀的残破笔记	bei fu shi de can po bi ji	2
 被草史莱姆吞下去过的树莓	bei cao shi lai mu tun xia qu guo de shu mei	2
 被藏匿的账本	bei cang ni de zhang ben	2
 被遗忘的怪盗	bei yi wang de guai dao	1
@@ -15539,6 +15540,7 @@ Olah！第一辑	di yi ji	1
 西芒	xi mang	1
 西茨博尔	xi ci bo er	1
 西蒂娜	xi di na	1
+西蒙	xi meng	1
 西薇	xi wei	2
 西西	xi xi	2
 西达	xi da	1
@@ -15670,6 +15672,7 @@ Olah！第一辑	di yi ji	1
 解开风魔龙巢穴封印	jie kai feng mo long chao xue feng yin	1
 解探月域，琢炼宵晖	jie tan yue yu zuo lian xiao hui	1
 解救科奴拉芙	jie jiu ke nu la fu	1
+解救纸片人	jie jiu zhi pian ren	1
 解析与想定	jie xi yu xiang ding	1
 解翠行告示牌	jie cui xing gao shi pai	1
 解翠行的证明文书	jie cui xing de zheng ming wen shu	1
@@ -15778,9 +15781,7 @@ Olah！第一辑	di yi ji	1
 诗歌沉思间	shi ge chen si jian	1
 诗汇之章	shi hui zhi zhang	1
 诗筠	shi yun	1
-诗篇断章	shi pian duan zhang xia	1
-诗篇断章	shi pian duan zhang zhong	1
-诗篇断章	shi pian duan zhang shang	1
+诗篇断章	shi pian duan zhang	1
 诗羽	shi yu	1
 诗页	shi ye	1
 诗黛	shi dai	2
@@ -15857,9 +15858,7 @@ Olah！第一辑	di yi ji	1
 谁之罪	shui zhi zui	1
 谁人的手记	shui ren de shou ji	2
 谁人的日志	shui ren de ri zhi	2
-谁人的残破笔记	shui ren de can po bi ji	1
-谁人的残破笔记	shui ren de can po bi ji er	1
-谁人的残破笔记	shui ren de can po bi ji yi	1
+谁人的残破笔记	shui ren de can po bi ji	2
 谁人的研究手记	shui ren de yan jiu shou ji	1
 谁人的笔记	shui ren de bi ji	2
 谁人的账本	shui ren de zhang ben	1
@@ -16445,6 +16444,7 @@ Olah！第一辑	di yi ji	1
 近寄之月	jin ji zhi yue	1
 近战攻坚型	jin zhan gong jian xing	1
 近战斥候型	jin zhan chi hou xing	1
+返乡吧，来自沙漠的孩子们	fan xiang ba lai zi sha mo de hai zi men	1
 返回地面	fan hui di mian	1
 返回春香窑	fan hui chun xiang yao	1
 返回猫尾酒馆	fan hui mao wei jiu guan	1
@@ -17023,7 +17023,6 @@ Olah！第一辑	di yi ji	1
 钢轮弓	gang lun gong	2
 钢铁之月	gang tie zhi yue	1
 钥匙	yao shi	2
-钥匙	yao shi zhong yao dao ju	1
 钥匙是易丢品	yao shi shi yi diu pin	1
 钥形的镇物	yao xing de zhen wu	1
 钦特利	qin te li	2
@@ -17189,6 +17188,7 @@ Olah！第一辑	di yi ji	1
 长夜燧火的明焰	zhang ye sui huo de ming yan	2
 长夜燧火的残照	zhang ye sui huo de can zhao	2
 长夜燧火的烈辉	zhang ye sui huo de lie hui	2
+长孙继璟	zhang sun ji jing	1
 长平	zhang ping	1
 长日一灯明	zhang ri yi deng ming	1
 长日留痕	zhang ri liu hen	1
@@ -17718,7 +17718,7 @@ Olah！第一辑	di yi ji	1
 雪山补给	xue shan bu gei	1
 雪山迷踪	xue shan mi zong	1
 雪山风景画片	xue shan feng jing hua pian	2
-雪山龙牙任务隐藏 雪山龙牙传说	xue shan long ya ren wu yin cang wu yin yong xue shan long ya chuan shuo	1
+雪山龙牙任务隐藏 雪山龙牙传说	xue shan long ya ren wu yin cang xue shan long ya chuan shuo	1
 雪山龙牙传说	xue shan long ya chuan shuo	1
 雪峰	xue feng	1
 雪峰胜景 星耀奇旅	xue feng sheng jing xing yao qi lü	1
@@ -17761,9 +17761,9 @@ Olah！第一辑	di yi ji	1
 雷之祸乱	lei zhi huo luan	1
 雷之药剂师	lei zhi yao ji shi	1
 雷云之笼	lei yun zhi long	1
-雷云风暴 第三幕 三阶段	lei yun feng bao di san mu wu yin yong san jie duan	1
-雷云风暴 第二幕 二阶段	lei yun feng bao di er mu wu yin yong er jie duan	1
-雷云风暴 第四幕 四阶段	lei yun feng bao di si mu wu yin yong si jie duan	1
+雷云风暴 第三幕 三阶段	lei yun feng bao di san mu san jie duan	1
+雷云风暴 第二幕 二阶段	lei yun feng bao di er mu er jie duan	1
+雷云风暴 第四幕 四阶段	lei yun feng bao di si mu si jie duan	1
 雷光棱镜	lei guang leng jing	2
 雷兹吉	lei zi ji	1
 雷内	lei nei	1
@@ -17893,6 +17893,7 @@ Olah！第一辑	di yi ji	1
 霜镌的执凭	shuang juan de zhi ping	2
 霜雪苛念	shuang xue ke nian	1
 霜驰	shuang chi	1
+霜鰭鲸	shuang qi jing	1
 霜鳍鲸	shuang qi jing	1
 霞彩掠光	xia cai lüe guang	1
 霞染轻罗	xia ran qing luo	1
@@ -18810,6 +18811,7 @@ Olah！第一辑	di yi ji	1
 龙兽射落之日	long shou she luo zhi ri	1
 龙冠武士的金哨	long guan wu shi de jin shao	3
 龙医生的困境	long yi sheng de kun jing	1
+龙呼	long hu	1
 龙嗣伪鳍	long si wei qi	2
 龙女妙变	long nü miao bian	1
 龙灾	long zai	1
