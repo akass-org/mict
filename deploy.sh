@@ -109,6 +109,13 @@ if [[ -n "${SCHEMA:-}" ]]; then
 
     dict_file="$RIME_DIR/${dict_name}.dict.yaml"
 
+    # 如果用户目录已有该字典，先备份
+    if [[ -f "$dict_file" ]] && ! [[ -L "$dict_file" ]] && ! $DRY_RUN; then
+        backup="${dict_file}.bak.$(date +%Y%m%d_%H%M%S)"
+        cp "$dict_file" "$backup"
+        echo "  ~ 已备份原配置到 $(basename "$backup")"
+    fi
+
     # 用户目录没有该字典时，从系统目录复制
     if [[ ! -f "$dict_file" ]]; then
         system_dict=$(find_rime_file "${dict_name}.dict.yaml" || true)
