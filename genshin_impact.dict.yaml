@@ -3,7 +3,7 @@
 
 ---
 name: genshin_impact
-version: "2026.05.02"
+version: "2026.05.15"
 sort: original
 use_preset_vocabulary: true
 ...
@@ -421,6 +421,7 @@ Olah！第一辑	di yi ji	1
 丘丘霜铠王	qiu qiu shuang kai wang	2
 丘丘领袖大殿	qiu qiu ling xiu da dian	2
 丘丘风行游侠	qiu qiu feng xing you xia	2
+丘尔德里克	qiu er de li ke	1
 丘比特的爱人	qiu bi te de ai ren	1
 业余炼金术士的日志	ye yu lian jin shu shi de ri zhi	1
 业果木	ye guo mu	2
@@ -513,6 +514,7 @@ Olah！第一辑	di yi ji	1
 丰泰	feng tai	1
 丰稔之赐	feng ren zhi ci	2
 丰美的鱼肉	feng mei de yu rou	2
+丰运	feng yun	1
 丰饶之地的奔行	feng rao zhi di de ben xing	1
 丰饶之海	feng rao zhi hai	2
 串串三味	chuan chuan san wei	2
@@ -3797,7 +3799,7 @@ Olah！第一辑	di yi ji	1
 基地门庭	ji di men ting	1
 基地风车	ji di feng che	1
 基奈	ji nai	2
-基娅拉	ji ya la	1
+基娅拉	ji ya la	2
 基尼奇	ji ni qi	3
 基尼奇的交易	ji ni qi de jiao yi	2
 基尼奇的命星	ji ni qi de ming xing	1
@@ -4056,6 +4058,7 @@ Olah！第一辑	di yi ji	1
 大久保大介	da jiu bao da jie	2
 大乐章的回声	da le zhang de hui sheng	1
 大仓	da cang	1
+大众化的结局构想	da zhong hua de jie ju gou xiang	1
 大伴	da ban	1
 大冒失	da mao shi	1
 大副	da fu	1
@@ -6687,6 +6690,7 @@ Olah！第一辑	di yi ji	1
 志琼的信	zhi qiong de xin	2
 志穗	zhi sui	1
 志织	zhi zhi	1
+志遥	zhi yao	1
 忘却之峡	wang que zhi xia	2
 忘吃早餐	wang chi zao can	1
 忘川之水	wang chuan zhi shui	2
@@ -7511,6 +7515,7 @@ Olah！第一辑	di yi ji	1
 摩拉肉	mo la rou	2
 摩拉钱袋	mo la qian dai	2
 摩答伐	mo da fa	1
+摩诃婆苏提婆耶弗太子	mo he po su ti po ye fu tai zi	1
 摹忆因子	mo yi yin zi	2
 撒娇	sa jiao	1
 撒比特	sa bi te	2
@@ -9412,6 +9417,7 @@ Olah！第一辑	di yi ji	1
 欢夜畅谈	huan ye chang tan	1
 欢宴	huan yan	1
 欢待	huan dai	1
+欢忱	huan chen	1
 欢聚总在寻觅后	huan ju zong zai xun mi hou	1
 欢聚畅饮的快意	huan ju chang yin de kuai yi	1
 欢腾之火	huan teng zhi huo	1
@@ -10372,6 +10378,7 @@ Olah！第一辑	di yi ji	1
 海魔王的宫殿	hai mo wang de gong dian	1
 海鸟的驻足	hai niao de zhu zu	1
 海鸥	hai ou	1
+海鹰	hai ying	1
 海龙	hai long	2
 浸有史莱姆凝液的泥土	jin you shi lai mu ning ye de ni tu	2
 涂涂改改的盗宝团笔记	tu tu gai gai de dao bao tuan bi ji	1
@@ -10803,6 +10810,7 @@ Olah！第一辑	di yi ji	1
 激活回响海螺	ji huo hui xiang hai luo	1
 激流	ji liu	1
 激流精油	ji liu jing you	2
+激烈的开端理论	ji lie de kai duan li lun	1
 濒死水滴	bin si shui di	1
 瀚海鲸歌	han hai jing ge	1
 火	huo	1
@@ -12327,6 +12335,7 @@ Olah！第一辑	di yi ji	1
 石化的骨片	shi hua de gu pian	3
 石原	shi yuan	1
 石坤	shi kun	2
+石墩儿	shi dun er	1
 石壮	shi zhuang	2
 石头	shi tou	2
 石头人类的麻烦	shi tou ren lei de ma fan	1
@@ -14228,6 +14237,7 @@ Olah！第一辑	di yi ji	1
 聊聊棒	liao liao bang	2
 职责	zhi ze	1
 职责之内	zhi ze zhi nei	1
+联展热度	lian zhan re du	1
 联机对局	lian ji dui ju	1
 聚于湖畔的外乡之客	ju yu hu pan de wai xiang zhi ke	1
 聚众游园，点亮夏日灯火	ju zhong you yuan dian liang xia ri deng huo	1
@@ -14709,15 +14719,14 @@ Olah！第一辑	di yi ji	1
 茗获的积存输运	ming huo de ji cun shu yun	1
 茗获的馥郁之法	ming huo de fu yu zhi fa	1
 茜娅	xi ya	1
-茜尔丝汀	qian er si ting	1
-茜尔雅	qian er ya	1
-茜斯柯	qian si ke	1
-茜涅特	qian nie te	1
-茜特菈莉	xi te la li	1
-茜特菈莉	qian te la li	2
-茜特菈莉的命星	qian te la li de ming xing	1
-茜特菈莉的手帕和钥匙	qian te la li de shou pa he yao shi	2
-茜特菈莉赠送的手帕	qian te la li zeng song de shou pa	2
+茜尔丝汀	xi er si ting	1
+茜尔雅	xi er ya	1
+茜斯柯	xi si ke	1
+茜涅特	xi nie te	1
+茜特菈莉	xi te la li	2
+茜特菈莉的命星	xi te la li de ming xing	1
+茜特菈莉的手帕和钥匙	xi te la li de shou pa he yao shi	1
+茜特菈莉赠送的手帕	xi te la li zeng song de shou pa	1
 茜红	qian hong	1
 茫茫秋水	mang mang qiu shui	1
 茱塔	zhu ta	2
@@ -16698,6 +16707,7 @@ Olah！第一辑	di yi ji	1
 通行证明	tong xing zheng ming	2
 通通400铃	tong tong ling	1
 速度，我就是速度！	su du wo jiu shi su du	1
+速摄快镜	su she kuai jing	1
 造笼师	zao long shi	1
 造访神秘房间	zao fang shen mi fang jian	1
 逢岩	feng yan	2
@@ -17861,6 +17871,7 @@ Olah！第一辑	di yi ji	1
 霍尔雷	huo er lei	1
 霍莱	huo lai	1
 霍莱，过来——	huo lai guo lai	1
+霍香	huo xiang	1
 霓裳画帘	ni shang hua lian	1
 霓裳花	ni shang hua	3
 霓裳花的种子	ni shang hua de zhong zi	2
@@ -18837,4 +18848,5 @@ Olah！第一辑	di yi ji	1
 龙龙饼干	long long bing gan	2
 龚古尔	gong gu er	1
 龚古尔替身	gong gu er ti shen	1
+龚妙	gong miao	1
 龟井宗久	gui jing zong jiu	1
