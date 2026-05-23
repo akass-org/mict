@@ -3,7 +3,7 @@
 
 ---
 name: genshin_impact
-version: "2026.05.15"
+version: "2026.05.23"
 sort: original
 use_preset_vocabulary: true
 ...
@@ -881,6 +881,7 @@ Olah！第一辑	di yi ji	1
 亮闪闪的贝壳	liang shan shan de bei ke	2
 亲切的兰那罗木刻	qin qie de lan na luo mu ke	2
 亲爱的挚友派蒙的肖像	qin ai de zhi you pai meng de xiao xiang	1
+亵渎的新芽	xie du de xin ya	1
 人之名解放	ren zhi ming jie fang	1
 人之海的秘书	ren zhi hai de mi shu	1
 人创造的奇迹	ren chuang zao de qi ji	1
@@ -2117,6 +2118,7 @@ Olah！第一辑	di yi ji	1
 前尘一梦	qian chen yi meng	1
 前庭净念池	qian ting jing nian chi	1
 前往中层	qian wang zhong ceng	1
+前往发条应用研究院取回桩锚	qian wang fa tiao ying yong yan jiu yuan qu hui zhuang mao	1
 前往古斯托特所在之处	qian wang gu si tuo te suo zai zhi chu	1
 前往圣心的许可	qian wang sheng xin de xu ke	1
 前往底层	qian wang di ceng	1
@@ -2128,6 +2130,7 @@ Olah！第一辑	di yi ji	1
 前往生产区	qian wang sheng chan qu	1
 前往监舍区	qian wang jian she qu	1
 前往破碎之海	qian wang po sui zhi hai	1
+前往科学院宿舍取回桩锚	qian wang ke xue yuan su she qu hui zhuang mao	1
 前往管理区	qian wang guan li qu	1
 前往顶层	qian wang ding ceng	1
 前所未闻的奇妙比赛？	qian suo wei wen de qi miao bi sai	1
@@ -4164,6 +4167,7 @@ Olah！第一辑	di yi ji	1
 天下人之章 第一幕 影照浮世风流	tian xia ren zhi zhang di yi mu ying zhao fu shi feng liu	1
 天下人之章 第二幕 须臾百梦	tian xia ren zhi zhang di er mu xu yu bai meng	1
 天下人座	tian xia ren zuo	1
+天之美赐	tian zhi mei ci	1
 天之谜，水之解	tian zhi mi shui zhi jie	1
 天云草实	tian yun cao shi	3
 天使海兔	tian shi hai tu	2
@@ -5552,6 +5556,7 @@ Olah！第一辑	di yi ji	1
 尘世之锁	chen shi zhi suo	2
 尘世巡游	chen shi xun you	1
 尘世闲游	chen shi xian you	1
+尘光七谕	chen guang qi yu	1
 尘埃的重量	chen ai de zhong liang	1
 尘埃落定	chen ai luo ding	1
 尘星旅梦	chen xing lü meng	1
@@ -6388,6 +6393,7 @@ Olah！第一辑	di yi ji	1
 异色方格地砖	yi se fang ge di zhuan	2
 异色猎刀鳐	yi se lie dao yao	1
 异色结晶石	yi se jie jing shi	3
+异质的树髓	yi zhi de shu sui	1
 异邦人与异邦人	yi bang ren yu yi bang ren	1
 异邦人喧哗旅！！	yi bang ren xuan hua lü	1
 弄假	nong jia	1
@@ -6504,6 +6510,7 @@ Olah！第一辑	di yi ji	1
 彩鹞栉春风 其三 故鸢吹归，再宿堂楼	cai yao zhi chun feng qi san gu yuan chui gui zai su tang lou	1
 彩鹞栉春风 其二 描露摹晖，诉愿云海	cai yao zhi chun feng qi er miao lu mo hui su yuan yun hai	1
 影	ying	1
+影中沉凝的幻灭	ying zhong chen ning de huan mie	1
 影向山夜行赤狐玩偶	ying xiang shan ye xing chi hu wan ou	2
 影向祓行	ying xiang fu xing	1
 影寂天下人	ying ji tian xia ren	1
@@ -6529,6 +6536,7 @@ Olah！第一辑	di yi ji	1
 往日的谜影	wang ri de mi ying	1
 往日的黑蛇骑士	wang ri de hei she qi shi	1
 往日重现	wang ri zhong xian	1
+往昔的曲谱	wang xi de qu pu	1
 往来之需	wang lai zhi xu	1
 往生堂三日无主，玉京台遣将调兵	wang sheng tang san ri wu zhu yu jing tai qian jiang diao bing	2
 征发令石板	zheng fa ling shi ban	1
@@ -7180,6 +7188,7 @@ Olah！第一辑	di yi ji	1
 执着于食物的幽影	zhi zhe yu shi wu de you ying	1
 扭扭蘑菇	niu niu mo gu	1
 扭曲的延伸	niu qu de yan shen	1
+扭曲的枯枝	niu qu de ku zhi	1
 扶危济困小月桂	fu wei ji kun xiao yue gui	2
 扶柳	fu liu	1
 找到你啦！	zhao dao ni la	1
@@ -8042,6 +8051,7 @@ Olah！第一辑	di yi ji	1
 昂扬高塔	ang yang gao ta	1
 昂藏之月	ang cang zhi yue	1
 昆吾断虹	kun wu duan hong	1
+昆图尔的冒险	kun tu er de mao xian	1
 昆图尔的故事	kun tu er de gu shi	2
 昆布丸	kun bu wan	1
 昆恩	kun en	2
@@ -9422,6 +9432,7 @@ Olah！第一辑	di yi ji	1
 欢聚畅饮的快意	huan ju chang yin de kuai yi	1
 欢腾之火	huan teng zhi huo	1
 欢腾摇荡	huan teng yao dang	1
+欢腾浮岛	huan teng fu dao	1
 欢腾脚步	huan teng jiao bu	1
 欢赏流华	huan shang liu hua	1
 欢跃信笺	huan yue xin jian	2
@@ -12394,6 +12405,7 @@ Olah！第一辑	di yi ji	1
 破坏点	po huai dian	1
 破坏生命体	po huai sheng ming ti	1
 破坏的增殖生命体	po huai de zeng zhi sheng ming ti	1
+破坏花田的林猪	po huai hua tian de lin zhu	1
 破夜的明焰	po ye de ming yan	1
 破寂彩蝶	po ji cai die	1
 破尽无明	po jin wu ming	1
@@ -13660,6 +13672,7 @@ Olah！第一辑	di yi ji	1
 绮命	qi ming	2
 绮命与志华的对话记录	qi ming yu zhi hua de dui hua ji lu	1
 绮思晚星	qi si wan xing	1
+绮想交奏之诗	qi xiang jiao zou zhi shi	1
 绮梦	qi meng	1
 绮梦缱绻	qi meng qian quan	1
 绮灿而神秘的赠礼	qi can er shen mi de zeng li	1
@@ -14262,6 +14275,7 @@ Olah！第一辑	di yi ji	1
 肃靖险乱	su jing xian luan	1
 肃音震响	su yin zhen xiang	1
 肇始之乡	zhao shi zhi xiang	2
+肉末酿豆腐	rou mo niang dou fu	1
 肉满满寿司	rou man man shou si	2
 肉肉烤蘑菇披萨	rou rou kao mo gu pi sa	2
 肉肉盛宴餐	rou rou sheng yan can	2
@@ -14294,6 +14308,7 @@ Olah！第一辑	di yi ji	1
 胜家	sheng jia	1
 胜者重燃	sheng zhe zhong ran	1
 胜负师放浪记	sheng fu shi fang lang ji	1
+胜过白银与精金	sheng guo bai yin yu jing jin	1
 胡乱涂写的书页	hu luan tu xie de shu ye	2
 胡伊鲁	hu yi lu	1
 胡塞尼	hu sai ni	2
@@ -16110,6 +16125,7 @@ Olah！第一辑	di yi ji	1
 赛达菲的箱子	sai da fei de xiang zi	2
 赛金砖	sai jin zhuan	1
 赝作古典	yan zuo gu dian	1
+赝作的树脂	yan zuo de shu zhi	1
 赝月的研究所	yan yue de yan jiu suo	1
 赞同的观众	zan tong de guan zhong	1
 赞扬	zan yang	1
@@ -16274,10 +16290,12 @@ Olah！第一辑	di yi ji	1
 蹈厉奋发	dao li fen fa	1
 蹦蹦史莱姆	beng beng shi lai mu	1
 蹦蹦庆典拉炮	beng beng qing dian la pao	2
+蹦蹦炸弹涂鸦	beng beng zha dan tu ya	1
 蹦蹦荷叶	beng beng he ye	1
 蹦蹦跳	beng beng tiao	1
 蹲墙角	dun qiang jiao	1
 身后事	shen hou shi	1
+身土坏空，五蕴识转	shen tu huai kong wu yun shi zhuan	1
 躲猫	duo mao	1
 躺感适中	tang gan shi zhong	1
 车笠远来	che li yuan lai	1
@@ -16299,6 +16317,7 @@ Olah！第一辑	di yi ji	1
 转行总是令人焦虑	zhuan xing zong shi ling ren jiao lü	1
 转转	zhuan zhuan	1
 转转悠悠兽	zhuan zhuan you you shou	1
+转转特调	zhuan zhuan te diao	1
 转鹭灯具	zhuan lu deng ju	1
 转鹭灯影	zhuan lu deng ying	1
 转鹭筒灯	zhuan lu tong deng	1
@@ -16705,6 +16724,7 @@ Olah！第一辑	di yi ji	1
 通知！	tong zhi	1
 通行凭证	tong xing ping zheng	2
 通行证明	tong xing zheng ming	2
+通讯	tong xun	1
 通通400铃	tong tong ling	1
 速度，我就是速度！	su du wo jiu shi su du	1
 速摄快镜	su she kuai jing	1
@@ -17169,6 +17189,7 @@ Olah！第一辑	di yi ji	1
 镀金旅团的茶歇	du jin lü tuan de cha xie	1
 镀金锅	du jin guo	2
 镀银怀表	du yin huai biao	2
+镂金的宝箱	lou jin de bao xiang	1
 镇宅鼓石	zhen zhai gu shi	1
 镇守之森	zhen shou zhi sen	1
 镇山之钉	zhen shan zhi ding	2
@@ -18515,6 +18536,7 @@ Olah！第一辑	di yi ji	1
 魔化骗骗花	mo hua pian pian hua	1
 魔女	mo nü	1
 魔女M的祝福	mo nü de zhu fu	1
+魔女尼可的茶会	mo nü ni ke de cha hui	1
 魔女常燃之羽	mo nü chang ran zhi yu	1
 魔女的小屋	mo nü de xiao wu	1
 魔女的心之火	mo nü de xin zhi huo	1
@@ -18526,6 +18548,7 @@ Olah！第一辑	di yi ji	1
 魔女破灭之时	mo nü po mie zhi shi	1
 魔女诗篇	mo nü shi pian	1
 魔女雕像	mo nü diao xiang	1
+魔导	mo dao	1
 魔导绪论	mo dao xu lun	2
 魔山风息	mo shan feng xi	1
 魔岩役使	mo yan yi shi	1
